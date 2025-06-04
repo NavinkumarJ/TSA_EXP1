@@ -1,7 +1,7 @@
 ### DEVELOPED BY: NAVIN KUMAR J
 ### REGISTER NO: 212222240071
 # Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 16-04-2025
+###  Date:
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
